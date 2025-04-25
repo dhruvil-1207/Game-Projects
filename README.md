@@ -50,5 +50,5 @@ A retro-style two-player Pong game where players bounce the ball back and forth 
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/Gameprojects.git
-   cd Gameprojects
+   git clone https://github.com/dhruvil-1207/Snake-Game
+   cd Snake-Game
