@@ -11,7 +11,7 @@ These games are beginner-friendly and a great way to explore Python programming 
 A classic snake game where you control a growing snake that must avoid crashing into the walls or itself.
 
 **Controls:**
-- Arrow keys (↑ ↓ ← →) to move the snake
+- WASD keys to move the snake
 
 **Features:**
 - Score tracking  
